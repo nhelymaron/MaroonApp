@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "Maroon",
+  "short_name": "Maroon",
+  "version": "nhel.android.app",
+  "description": "Its Not A Color, Its App.",
+  "author": "Nhely A. Maron",
+  "icons": [],
+  "start_url": "index.html"
+}
